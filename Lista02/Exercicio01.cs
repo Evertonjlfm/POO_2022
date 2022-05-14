@@ -1,3 +1,4 @@
+//Ler o primeiro nome de uma pessoa e mostrar a mensagem: “Bem-vindo ao C#, <xxx>”, onde <xxx> é o nome informado pela pessoa.
 using System;
 
 class Program {
