@@ -3,9 +3,9 @@ using System;
 
 class Program{
   public static void Main(string[] args){
-    Console.Write("Digite a nota do primeiro bimestre da disciplina: ");
+    Console.WriteLine("Digite a nota do primeiro bimestre da disciplina: ");
     double nota1 = double.Parse(Console.ReadLine());
-    Console.Write("Digite a nota do segunda bimestre da disciplina: ");
+    Console.WriteLine("Digite a nota do segunda bimestre da disciplina: ");
     double nota2 = double.Parse(Console.ReadLine());
     double media = (nota1 * 2 + nota2 * 3) / 5;
     Console.Write($"Média parcial = {media}");
