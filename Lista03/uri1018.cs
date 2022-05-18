@@ -1,3 +1,4 @@
+//Neste problema você tem que ler um valor inteiro e calcular o menor número possível de notas em que o valor pode ser decomposto. As notas possíveis são 100, 50, 20, 10, 5, 2 e 1. Imprima o valor lido e a lista de notas.
 using System;
 
 class Program{

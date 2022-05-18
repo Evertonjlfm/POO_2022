@@ -1,3 +1,4 @@
+//Calcule o consumo médio de um carro, fornecendo a distância total percorrida (em Km) e o total de combustível gasto (em litros).
 using System;
 
 class Program{
